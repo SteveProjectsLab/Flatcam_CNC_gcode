@@ -1,0 +1,5 @@
+Partlist exported from Hub del team: steve.projects   Progetto: CNC3020  Scheda: PCB v1 at 13/04/2024 12:27
+
+Qty Value  Device Package Parts Description         MF MPN OC_FARNELL OC_NEWARK POPULARITY
+1          M08    08P     SL1   AMP QUICK CONNECTOR        unknown    unknown   10        
+1   UA741D UA741D SO08    IC1   OP AMP                                          0         

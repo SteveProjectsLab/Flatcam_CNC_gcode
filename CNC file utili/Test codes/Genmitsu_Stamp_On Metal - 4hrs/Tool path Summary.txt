@@ -1,0 +1,18 @@
+1.8MM0.2MM - Conical 0.125 Flat - 10 degrees
+
+Tool:               [1] 10.0 degrees conical with 0.000 mm tip radius and 0.125 mm flat radius
+Feed Rate:          6.000 mm/sec
+Plunge Rate:        4.000 mm/sec
+Safe Z:             5.000 mm
+Spindle Speed:      12000 rpm
+Stepdown:           0.200 mm
+Stepover:           0.102 mm
+Tolerance:          0.025 mm
+Allowance:          0.000 mm
+Home Position:      X:0.000 Y:0.000 Z:5.000
+Comments:           1.8MM0.2MM
+
+Feed Rate Length:   77702.9 mm
+Plunge Rate Length: 57 mm
+Rapid Rate Length:  363 mm
+About 4 Hours

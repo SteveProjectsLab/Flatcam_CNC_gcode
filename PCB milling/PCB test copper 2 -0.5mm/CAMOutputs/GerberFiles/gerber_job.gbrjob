@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-04-13T10:27:32Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PCB v0"
+        },
+        "Owner": "stefano molari <s.molari@studenti.unibs.it>",
+        "Size": {
+            "X": 30,
+            "Y": 30
+        }
+    }
+}

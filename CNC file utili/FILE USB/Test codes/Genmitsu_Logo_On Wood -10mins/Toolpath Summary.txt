@@ -1,0 +1,19 @@
+0.5mmdeep - Conical Rad 0.01 20deg
+
+Tool:               [1] 20.0 degrees conical with 0.010 mm tip rad.
+Feed Rate:          6.000 mm/sec
+Plunge Rate:        4.000 mm/sec
+Safe Z:             5.000 mm
+Spindle Speed:      12000 rpm
+Stepover:           0.000 mm
+Tolerance:          0.025 mm
+Allowance:          0.000 mm
+Home Position:      X:0.000 Y:0.000 Z:5.000
+Comments:           0.5mmdeep
+
+Finish Depth:       0.500
+
+Feed Rate Length:   950.0 mm
+Plunge Rate Length: 55 mm
+Rapid Rate Length:  139 mm
+Machining Time:     00:13:01

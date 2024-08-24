@@ -1,0 +1,34 @@
+crea gerber da fusion 360
+
+###########################
+	copper_top
+###########################
+- importa in Flatcam questo file
+- clicca su selected e modifica
+	tool dia: 0.1
+	width passes: 1		2
+	overlap /	0.2
+- clicca su il file iso generato
+- clicca su selected e modifica
+	cut z: -0.15
+	travel z: 5
+	feed rate:50
+	tool dia: 0.1
+- genera poi gcode
+###########################
+	profile
+###########################
+- importa in Flatcam questo file
+- clicca su selected, "board cutout" e modifica
+	tool dia:1
+	margin:0.1
+	gap size:0.5
+	gaps: 2 ( L/R)
+- clicca su il file iso generato
+- clicca su selected e modifica
+	cut z: -1.6
+	travel z: 1
+	feed rate:25
+	tool dia: 1
+	spindle speed:1000
+- genera poi gcode
